@@ -1,4 +1,4 @@
-# plentific_challenge
+# plentific-challenge
 
 Code created for Plentific hiring process coding chalenge.
 
